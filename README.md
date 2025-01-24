@@ -1,2 +1,2 @@
 # github-workflow
-console.log("Ther is nothing permanent, except change")
+console.log ("Ther is nothing permanent, except change")
